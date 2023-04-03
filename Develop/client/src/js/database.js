@@ -16,7 +16,7 @@ const initdb = async () =>
   });
 
 //  (ToDo Done)-------------------------------------------------------- Adding content to the DB and saving, along with console log of confirmation
-export const postDb = async (content) => {
+export const putDb = async (content) => {
   console.log('Post to the database');
 
   // Create a connection to the database database and version we want to use.
