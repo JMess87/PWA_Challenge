@@ -23,19 +23,26 @@ The following animation demonstrates the application functionality:
 
 ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.]
 
+https://drive.google.com/file/d/18LxxRGCESIsLxMGrRoaRXCM535zsDtwH/view
+
 The following image shows the application's `manifest.json` file:
 
-
-
 ![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.]
+
+https://drive.google.com/file/d/1jyRMvAs0VmK6kKmRJwSwKBT4F_b38LPe/view 
+
 
 The following image shows the application's registered service worker:
 
 ![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.]
 
+https://drive.google.com/file/d/1GUziu8a-0dg_ljn4tDTs-iGrZwN59Z6l/view
+
 The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.]
+
+https://drive.google.com/file/d/13ncQKAKgj_64nhLbG3dGNqtiL8EP_06s/view
 
 
 
